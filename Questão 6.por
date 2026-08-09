@@ -14,6 +14,8 @@ programa
           escreva("digite 5 numeros aleatorios: ")
           leia(valor_A, valor_B, valor_C, valor_D, valor_E)
 
+          limpa()
+
           se(valor_A % 2 == 0){
                 pares++
           } senao{
