@@ -11,7 +11,7 @@ programa
 		leia(Numero)
 		leia(Numero_2)
 
-		se(Numero < Numero_2){
+		se(Numero > Numero_2){
 			escreva("O numero ", Numero, " é maior que o numero ", Numero_2, " logo o ", Numero_2, " menor do que ", Numero, "\n")
 
 			soma = Numero + Numero_2
